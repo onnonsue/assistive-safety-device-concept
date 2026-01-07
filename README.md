@@ -27,3 +27,7 @@ A wearable device with a simple physical button.
 
 ## Current Status
 Concept & research planning stage.
+
+
+This concept intentionally prioritizes reliability and accessibility over feature richness in safety-critical contexts.
+
